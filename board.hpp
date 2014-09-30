@@ -10,7 +10,7 @@ class piece
 {
 private:
     
-    std::vector<std::size_t> _parts;
+    std::vector<std::size_t> _parts;;
 };
 
 #endif	/* BOARD_HPP */
